@@ -1,0 +1,2 @@
+# HnHRuby
+JRubyでゲームのプロトタイプ
